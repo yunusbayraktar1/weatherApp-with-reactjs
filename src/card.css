@@ -1,0 +1,12 @@
+*{color: rgb(212, 165, 77);}
+
+.card h2 
+{
+    margin: 15px 10px;
+    font-size: 25px;
+    font-weight: 400;
+}
+.card h3 
+{
+    font-size: 30px;
+}
